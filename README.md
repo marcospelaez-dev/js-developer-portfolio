@@ -1,4 +1,4 @@
-#Repositório Projeto Portfolio JS da DIO.
+# Repositório Projeto Portfolio JS da DIO.
 
 **Formação JavaScript Developer.**
 
